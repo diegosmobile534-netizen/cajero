@@ -1,6 +1,6 @@
 #  Cajero Automático en Python
 
-Este proyecto escolar simula un cajero automático básico utilizando Python. Permite realizar operaciones comunes como consultar saldo, retirar y depositar dinero, con verificación por PIN e intentos limitados.
+Este proyecto escolar simula un cajero automático básico utilizando Python. Permite realizar operaciones comunes como consultar saldo, retirar y depositar dinero, con verificación por PIN e intentos limitados. (el PIN es 12345)
 
 ##  Funcionalidades
 
